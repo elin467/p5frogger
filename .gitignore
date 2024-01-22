@@ -1,0 +1,9 @@
+Build/
+*.csproj
+.vscode/
+.vsconfig
+Library/
+Temp/
+Logs/
+*.sln
+assets/TextMesh Pro
